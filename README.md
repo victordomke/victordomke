@@ -1,7 +1,7 @@
 ### Eai pessoal, eu sou o Victor Domke 👋
 
 
-- 🔭 Atualmente trabalho com RPA e Web Scraping utilizando Python como linguagem
+- 🔭 Atualmente trabalho com Data Science utilizando Python
 - 🌱 Estudando back-end (Django)
 - 📫 Contate-me no e-mail: contatovictordomke@gmail.com
 - 😄 Pronome: ele/dele
